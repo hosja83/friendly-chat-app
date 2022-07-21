@@ -1,4 +1,8 @@
 {
+  "name": "friendly-chat-app",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Alhosainy Altaher",
   "dependencies": {
     "firebase": "^9.9.0"
   }
